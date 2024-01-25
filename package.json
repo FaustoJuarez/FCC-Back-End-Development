@@ -10,6 +10,7 @@
   ],
   "name": "fcc-learn-npm-package-json",
   "dependencies": {
+    "dotnet": "^1.1.4",
     "express": "^4.14.0"
   },
   "main": "server.js",
