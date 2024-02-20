@@ -1,0 +1,139 @@
+[
+  {
+    "username": "fcc_test_17084001913",
+    "_id": "ed9cbbddb7884390b76d13d1",
+    "count": 0,
+    "log": []
+  },
+  {
+    "username": "fcc_test_17084001916",
+    "_id": "323fa47c5b514c118793f4c8",
+    "count": 0,
+    "log": []
+  },
+  {
+    "username": "fcc_test_17084001923",
+    "_id": "921372a1dd4f4a28bd636664",
+    "count": 1,
+    "log": [
+      {
+        "description": "test",
+        "duration": "60",
+        "date": "Mon Jan 01 1990"
+      }
+    ]
+  },
+  {
+    "username": "fcc_test_17084001926",
+    "_id": "154afc7f7f3647878ff8ca5a",
+    "count": 1,
+    "log": [
+      {
+        "description": "test",
+        "duration": "60",
+        "date": "Mon Jan 01 1990"
+      }
+    ]
+  },
+  {
+    "username": "fcc_test_17084001930",
+    "_id": "1f2b1d56a338492aaa015476",
+    "count": 1,
+    "log": [
+      {
+        "description": "test",
+        "duration": "60",
+        "date": "Tue Feb 20 2024"
+      }
+    ]
+  },
+  {
+    "username": "fcc_test_17084001935",
+    "_id": "497187543fb648e0831c1e00",
+    "count": 1,
+    "log": [
+      {
+        "description": "test",
+        "duration": "60",
+        "date": "Tue Feb 20 2024"
+      }
+    ]
+  },
+  {
+    "username": "fcc_test_17084001940",
+    "_id": "6c55d46b4d1e4214b108fac1",
+    "count": 1,
+    "log": [
+      {
+        "description": "test",
+        "duration": "60",
+        "date": "Tue Feb 20 2024"
+      }
+    ]
+  },
+  {
+    "username": "fcc_test_17084001946",
+    "_id": "0e823d62249d4c5abad06640",
+    "count": 1,
+    "log": [
+      {
+        "description": "test",
+        "duration": "60",
+        "date": "Tue Feb 20 2024"
+      }
+    ]
+  },
+  {
+    "username": "fcc_test_17084001951",
+    "_id": "683911382f104481a9c5e9a0",
+    "count": 1,
+    "log": [
+      {
+        "description": "test",
+        "duration": "60",
+        "date": "Tue Feb 20 2024"
+      }
+    ]
+  },
+  {
+    "username": "fcc_test_17084001957",
+    "_id": "6ac4a5bab8f4422bab7ec9b6",
+    "count": 1,
+    "log": [
+      {
+        "description": "test",
+        "duration": "60",
+        "date": "Tue Feb 20 2024"
+      }
+    ]
+  },
+  {
+    "username": "fcc_test_17084001962",
+    "_id": "a231fa0871fb44a6ab7921de",
+    "count": 1,
+    "log": [
+      {
+        "description": "test",
+        "duration": "60",
+        "date": "Tue Feb 20 2024"
+      }
+    ]
+  },
+  {
+    "username": "fcc_test_17084001967",
+    "_id": "1933250b87a2432f99c53d3f",
+    "count": 2,
+    "log": [
+      {
+        "description": "test",
+        "duration": "60",
+        "date": "Mon Jan 01 1990"
+      },
+      {
+        "description": "test",
+        "duration": "60",
+        "date": "Wed Jan 03 1990"
+      }
+    ]
+  }
+]
